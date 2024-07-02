@@ -1,4 +1,4 @@
-# Music-Store
+# Music-Store Analysis
 ## Overview
 This README file provides an overview of the Music Store Database project implemented using PostgreSQL. The database is designed to manage information about a music store, including details about artists, albums, tracks, genres, customers, invoices, and invoice items. The aim is to provide a comprehensive system for managing a music store's inventory and sales.
 
